@@ -1,0 +1,11 @@
+Item no = 1000
+Item name = Nut
+Item price = 5000.0
+After modification:
+Item no = 1000
+Item name = Nut
+Item price = 6000.0
+I am subItem
+Item no = 0
+Item name = null
+Item price = 7000.0

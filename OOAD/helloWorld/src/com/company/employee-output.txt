@@ -1,0 +1,4 @@
+Printing Employee Details:
+
+name: Rama
+Salary: 7000.0

@@ -1,0 +1,4 @@
+Roll No: 31
+Subject marks = 20
+Sport weight = 10
+Total = 30

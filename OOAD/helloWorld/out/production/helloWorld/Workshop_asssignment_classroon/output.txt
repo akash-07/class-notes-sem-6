@@ -1,0 +1,6 @@
+Adding requests of Customer 1
+Processing requests of Customer 2
+Mechanic: Changing oil
+Mechanic: checking electricals
+Processing all added requests
+Mechanic: Changing oil

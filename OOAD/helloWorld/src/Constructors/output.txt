@@ -1,0 +1,13 @@
+Inheritance constructor output:
+
+Sub class constructor
+a = 5
+
+Distance program output:
+First distance is:
+10 feet 9 inches
+Second distance is:
+9 feet 10 inches
+After adding:
+20 feet 7 inches
+
