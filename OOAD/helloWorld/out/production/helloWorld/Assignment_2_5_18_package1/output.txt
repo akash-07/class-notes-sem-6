@@ -1,0 +1,54 @@
+(i,j) = (0,0)
+(i,j) = (0,1)
+(i,j) = (1,0)
+(i,j) = (1,1)
+(i,j) = (2,0)
+(i,j) = (2,1)
+(i,j) = (3,0)
+(i,j) = (3,1)
+(i,j) = (4,0)
+(i,j) = (0,0)
+(i,j) = (0,1)
+(i,j) = (0,2)
+(i,j) = (1,0)
+(i,j) = (1,1)
+(i,j) = (1,2)
+(i,j) = (2,0)
+(i,j) = (2,1)
+(i,j) = (2,2)
+(i,j) = (3,0)
+(i,j) = (3,1)
+(i,j) = (3,2)
+(i,j) = (4,0)
+(i,j) = (4,1)
+(i,j) = (4,2)
+(i,j) = (5,0)
+(i,j) = (5,1)
+(i,j) = (5,2)
+(i,j) = (6,0)
+(i,j) = (6,1)
+(i,j) = (6,2)
+(i,j) = (7,0)
+(i,j) = (7,1)
+(i,j) = (7,2)
+(i,j) = (8,0)
+(i,j) = (8,1)
+(i,j) = (8,2)
+(i,j) = (9,0)
+(i,j) = (9,1)
+(i,j) = (9,2)
+I am a static method
+I am incrementing count static variable -->
+Count = 1
+I am an Animal
+Basically I am street dog
+I am an Animal
+Basically I am street dog
+I am an Animal
+Basically I am street dog
+I am a Dalmation dog
+I am eating
+I am a concrete class of an abstract super class
+/ by zero
+I am in a finally block
+accessed illegally
