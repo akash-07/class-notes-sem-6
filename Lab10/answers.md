@@ -13,9 +13,9 @@
 
 5. a) The sequence number of SYNACK in reply to SYN is 0 and the packet or frame number is 58.
 
-  b) The value of ACK field is 1. The "xyz" website determines this value as being the value/sequence number of next byte to be received.
+    b) The value of ACK field is 1. The "xyz" website determines this value as being the value/sequence number of next byte to be received.
 
-  c) The SYN and ACK flags are set for a SYNACK segment.
+    c) The SYN and ACK flags are set for a SYNACK segment.
 
   ![image](https://user-images.githubusercontent.com/24961068/37906468-dae8ec7e-311f-11e8-89ac-f29fad0eb5cb.png)
 
@@ -27,9 +27,9 @@
 
 8.  `--` means that the ACK packet was dropped but still TCP functions well beacause of it's cumulative acks.
   
-   a), b), c), d) Given in table
+    a), b), c), d) Given in table
    
-   e) Packets 2 and 3 received a combined ACK. The entry in for packet no. 2 should ideally be same as packet no. 3 because the ACK received for packet 3 acts as an ACK for packet 2 whose ACK was dropped.
+     e) Packets 2 and 3 received a combined ACK. The entry in for packet no. 2 should ideally be same as packet no. 3 because the ACK received for packet 3 acts as an ACK for packet 2 whose ACK was dropped.
   
   | S.No     | Frame No.|Length of TCP segment| Seq No.| Sent time| Ack frame No. | Ack No. | Ack received time| RTT (seconds)|
   | :------------- | :------------- |:------------- |:------------- | :------------- |:------------- | :------------- |:------------- | :------------- |
@@ -41,7 +41,7 @@
   | 11      | 71 | 1358 |13581 | 13.366306179| 96|14939 |14.005899504 | 0.639593325|
   | 25      | 90 | 1358 |32593 | 13.366782686| 132|32769 |14.006303689 | 0.639521003|
 
-  f)
+    f)
   
   ![image](https://user-images.githubusercontent.com/24961068/37906474-dffd543e-311f-11e8-9496-8440ab761587.png)
 
